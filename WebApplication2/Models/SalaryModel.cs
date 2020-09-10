@@ -9,5 +9,6 @@ namespace WebApplication2.Models
     {
         public int Developer { get; set; }
         public int SrDeveloper { get; set; }
+        public int manager { get; set; }
     }
 }
