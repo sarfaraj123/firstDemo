@@ -8,5 +8,6 @@ namespace WebApplication2.Models
     public class SalaryModel
     {
         public int Developer { get; set; }
+        public int SrDeveloper { get; set; }
     }
 }
